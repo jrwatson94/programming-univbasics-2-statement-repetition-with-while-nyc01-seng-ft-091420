@@ -6,5 +6,6 @@ while current_value >= 1 do
   puts current_value
   current_value -=
 end
+
 puts "Happy New Year!"
 
